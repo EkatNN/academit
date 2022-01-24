@@ -1,0 +1,3 @@
+First line from local repository
+Second line
+Third line from remote repository
